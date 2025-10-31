@@ -8,7 +8,6 @@ English: An attempt at translating WCAG into Romanian.
 
 English: Original description:
 
----
 
 
 WCAG (Web Content Accessibility Guidelines) 2
