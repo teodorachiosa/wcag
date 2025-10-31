@@ -2,6 +2,7 @@
 
 English: An attempt at translating WCAG into Romanian.
 
+---
 
 <span lang="ro">Descriere originală (Engleză):</span>
 
