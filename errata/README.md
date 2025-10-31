@@ -32,6 +32,7 @@ The level 2 heading in the top-level section for each previous version should us
 Each erratum should be in the following format
 (replacing `YYYY-MM-DD`, `Section Title`, `sectionid`, `details of changes`, and `#NNNN`):
 
+{% raw %}
 ```html
 <li>
   YYYY-MM-DD:
@@ -40,6 +41,7 @@ Each erratum should be in the following format
   ({% gh #NNNN %})
 </li>
 ```
+{% endraw %}
 
 Adhering to this format is important, as any entries under the latest published version will also be
 parsed for inclusion within Guideline/SC boxes and Key Terms definitions within Understanding pages.
@@ -81,6 +83,8 @@ For example:
 
 ### GitHub PR or commit
 
+
+{% raw %}
 When possible, provide a reference to one or more GitHub pull requests or commit hashes
 at the end of each erratum, in the format `({% gh "..." %})`.
 
@@ -91,3 +95,4 @@ The format breaks down as follows:
   - A commit hash of 7 or more characters, with no prefix, e.g. `"b043430"`
 - The quotes around the parameter passed to the `gh` shortcode are necessary for template parsing
 - The outer parentheses exist only for punctuation, and are directly output
+{% endraw %}
