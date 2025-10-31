@@ -4,9 +4,9 @@ English: An attempt at translating WCAG into Romanian.
 
 ---
 
-<span lang="ro">Descriere originală (Engleză):</span>
+<span lang="ro">Română: Descriere originală (Engleză):</span>
 
-Original description:
+English: Original description:
 
 ---
 
