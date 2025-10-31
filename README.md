@@ -1,8 +1,10 @@
-test HTML <span lang="ro">Bună!</span>
+<span lang="ro">Română: O tentativă de traducere a WCAG în limba română.</span>
+English: An attempt at translating WCAG into Romanian.
 
 ---
 
-Descriere originală:
+<span lang="ro">Descriere originală (Engleză):</span>
+Original description:
 
 WCAG (Web Content Accessibility Guidelines) 2
 ===
