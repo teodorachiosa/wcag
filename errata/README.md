@@ -37,7 +37,7 @@ Each erratum should be in the following format
   YYYY-MM-DD:
   In <a href="{{ trUrl }}#sectionid">Section Title</a>,
   details of changes.
-  ({% gh #NNNN %})
+  ([#NNNN](https://github.com/w3c/wcag/pull/NNNN))
 </li>
 ```
 
