@@ -37,7 +37,7 @@ Each erratum should be in the following format
   YYYY-MM-DD:
   In <a href="{{ trUrl }}#sectionid">Section Title</a>,
   details of changes.
-  ([#NNNN](https://github.com/w3c/wcag/pull/NNNN))
+  ({% gh #NNNN %})
 </li>
 ```
 
@@ -82,11 +82,11 @@ For example:
 ### GitHub PR or commit
 
 When possible, provide a reference to one or more GitHub pull requests or commit hashes
-at the end of each erratum, in the format `([#NNNN](https://github.com/w3c/wcag/pull/NNNN))`.
+at the end of each erratum, in the format `({% gh "..." %})`.
 
 The format breaks down as follows:
 
-- `([#NNNN](https://github.com/w3c/wcag/pull/NNNN))` is a custom shortcode, which accepts one of the following:
+- `{% gh "..." %}` is a custom shortcode, which accepts one of the following:
   - A PR number prefixed with `#`, e.g. `"#4080"` (this is the preferred option when available)
   - A commit hash of 7 or more characters, with no prefix, e.g. `"b043430"`
 - The quotes around the parameter passed to the `gh` shortcode are necessary for template parsing
