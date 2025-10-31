@@ -1,3 +1,9 @@
+test HTML <span lang="ro">Bună!</span>
+
+---
+
+Descriere originală:
+
 WCAG (Web Content Accessibility Guidelines) 2
 ===
 
