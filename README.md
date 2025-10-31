@@ -1,7 +1,10 @@
 <span lang="ro">Română: O tentativă de traducere a WCAG în limba română.</span>
+
 English: An attempt at translating WCAG into Romanian.
 
+
 <span lang="ro">Descriere originală (Engleză):</span>
+
 Original description:
 
 ---
