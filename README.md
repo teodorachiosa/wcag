@@ -1,14 +1,12 @@
-<div lang="ro">
 **Română**:
 - Traducere a WCAG în limba română.
 - Inițiativă parcată momentan (se așteaptă o oportunitate de colaborare cu o firmă autorizată de traducere).
-</div>
 
-<div lang="en">
+
 **English**:
 - Translation of WCAG in Romanian.
 - This initiative is currently parked (waiting for an opportunity to collaborate with an authorized translation agency).
-</div>
+
 
 
 ---
