@@ -1,10 +1,12 @@
 **Română**:
 - Traducere a WCAG în limba română.
+- Această traducere își propune să fie o versiune îmbunătățită a versiunii tradusă în mod automat publicată de Autoritatea pentru Digitalizarea României: ["GHID TEHNIC PRIVIND ACCESIBILITATEA ȘI UTILIZAREA RESURSELOR INTERNET Versiunea 1.0"](https://www.adr.gov.ro/wp-content/uploads/2024/03/GHID-TEHNIC-PRIVIND-ACCESIBILITATEA-SI-UTILIZAREA-RESURSELOR-INTERNET.pdf).
 - Inițiativă parcată momentan (se așteaptă o oportunitate de colaborare cu o firmă autorizată de traducere).
 
 
 **English**:
 - Translation of WCAG in Romanian.
+- This translation aims to be an improved version of the machine translated version created by the Romanina Authority for Digitalization: ["GHID TEHNIC PRIVIND ACCESIBILITATEA ȘI UTILIZAREA RESURSELOR INTERNET Versiunea 1.0"](https://www.adr.gov.ro/wp-content/uploads/2024/03/GHID-TEHNIC-PRIVIND-ACCESIBILITATEA-SI-UTILIZAREA-RESURSELOR-INTERNET.pdf).
 - This initiative is currently parked (waiting for an opportunity to collaborate with an authorized translation agency).
 
 
