@@ -1,6 +1,6 @@
 **Română**:
 - Traducere a WCAG în limba română.
-- Această traducere își propune să fie o versiune îmbunătățită a versiunii tradusă în mod automat publicată de Autoritatea pentru Digitalizarea României: ["GHID TEHNIC PRIVIND ACCESIBILITATEA ȘI UTILIZAREA RESURSELOR INTERNET Versiunea 1.0"](https://www.adr.gov.ro/wp-content/uploads/2024/03/GHID-TEHNIC-PRIVIND-ACCESIBILITATEA-SI-UTILIZAREA-RESURSELOR-INTERNET.pdf).
+- Această traducere își propune să fie o versiune îmbunătățită a versiunii traduse în mod automat publicată de Autoritatea pentru Digitalizarea României: ["GHID TEHNIC PRIVIND ACCESIBILITATEA ȘI UTILIZAREA RESURSELOR INTERNET Versiunea 1.0"](https://www.adr.gov.ro/wp-content/uploads/2024/03/GHID-TEHNIC-PRIVIND-ACCESIBILITATEA-SI-UTILIZAREA-RESURSELOR-INTERNET.pdf).
 - Inițiativă parcată momentan (se așteaptă o oportunitate de colaborare cu o firmă autorizată de traducere).
 
 
